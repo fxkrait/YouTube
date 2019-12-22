@@ -25,6 +25,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - fix default EQ on voice (reduce lows, add to highs) 
 
   - probably post-process in kdenlive/ardour.
+  
+- Make videos more concise.
 
 ## Video Queue:
 
