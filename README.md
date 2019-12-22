@@ -23,3 +23,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 -- (tips on switching from Arch to Nix)
 
 - Hakyll Blog
+
+- Firefox Ricing + addon recommendations + general workflow (UMatrix)
