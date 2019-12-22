@@ -6,10 +6,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 - Emacs (EXWM, Lisp)
 
-- NixOS
+- NixOS (DevOps)
 
-- Haskell (Functional Programming)
+- Haskell, Hakyll (Functional Programming)
 
 - Real Life (Jobs, Study Strats, brain hacks, etc)
 
-
+- Linux (Devices, usage, etc)
