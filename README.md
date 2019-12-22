@@ -24,6 +24,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 - Hakyll Blog
 
+  - see https://thomashartmann.dev/
+
 - Firefox Ricing + addon recommendations + general workflow (UMatrix)
 
 - Study Tips
