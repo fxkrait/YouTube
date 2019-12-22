@@ -48,4 +48,6 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   
   - https://github.com/greghab/Dactyl-Manuform-Build-Log (work on filling this out + formatting properly)
   
+  - Do a build log for my second keyboard?
+  
 - Latex Workflow (Emacs, Auctex, yasnippets)
