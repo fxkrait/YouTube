@@ -14,6 +14,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 - Linux (Devices, usage, etc)
 
+- DataScience / ML
+
 - Memes (Botnet/tech related)
 
 ## Improvements:
