@@ -28,6 +28,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   
 - Make videos more concise.
 
+- Have blog post attached to each video.
+
 ## Video Queue:
 
 - NixOS
