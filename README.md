@@ -28,7 +28,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   
 - Make videos more concise. 
 
-  - (template out what you are going to say) (SEE blog post)
+  - (template out what you are going to say) (See blog post)
 
 - Have blog post attached to each video.
 
