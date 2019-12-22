@@ -16,6 +16,14 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 - Memes (Botnet/tech related)
 
+## Improvements:
+
+- Stop mumbling (Speak clearer, pronounciate)
+
+- fix default EQ on voice (reduce lows, add to highs) 
+
+  - probably post-process in kdenlive/ardour.
+
 ## Video Queue:
 
 - NixOS
