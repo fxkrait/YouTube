@@ -47,3 +47,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Dactyl Manuform
   
   - https://github.com/greghab/Dactyl-Manuform-Build-Log (work on filling this out + formatting properly)
+  
+- Latex Workflow
