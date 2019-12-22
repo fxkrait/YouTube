@@ -15,3 +15,11 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Linux (Devices, usage, etc)
 
 - Memes (Botnet/tech related)
+
+## Video Queue:
+
+- NixOS
+
+-- (tips on switching from Arch to Nix)
+
+- Hakyll Blog
