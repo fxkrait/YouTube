@@ -19,8 +19,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ## Video Queue:
 
 - NixOS
-
--- (tips on switching from Arch to Nix)
+ - (tips on switching from Arch to Nix)
 
 - Hakyll Blog
 
