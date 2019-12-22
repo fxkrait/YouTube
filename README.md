@@ -26,7 +26,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
   - probably post-process in kdenlive/ardour.
   
-- Make videos more concise.
+- Make videos more concise. 
+
+  - (template out what you are going to say) (SEE blog post)
 
 - Have blog post attached to each video.
 
