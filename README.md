@@ -31,7 +31,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Study Tips
 
 - Dactyl Manuform
-
-  - format this properly.
   
-  - https://github.com/greghab/Dactyl-Manuform-Build-Log
+  - https://github.com/greghab/Dactyl-Manuform-Build-Log (work on filling this out + formatting properly)
